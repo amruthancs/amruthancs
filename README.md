@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Amruthan</h1>
-<h3 align="center">Results-Driven Java developer from India</h3>
+<h3 align="center">Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amruthancs&label=Profile%20views&color=0e75b6&style=flat" alt="amruthancs" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amruthan_c_s" target="blank"><img src="https://img.shields.io/twitter/follow/amruthan_c_s?logo=twitter&style=for-the-badge" alt="amruthan_c_s" /></a> </p>
 
-- 🔭 I’m currently working on [ApacheKafka](https://github.com/amruthancs/ApacheKafka)
+- 🔭 I’m currently working on Angular & Java
 
-- 🌱 I’m currently learning **Apache Spark, Machine Leanring**
+- 🌱 I’m currently learning **Machine Leanring**
 
-- 👯 I’m looking to collaborate on [AssistAI](https://github.com/amruthancs/eclipse-chatgpt-plugin)
+- 📝 I write articles on [https://lifeofmechon.blogspot.com](https://lifeofmechon.blogspot.com)
 
-- 📝 I regularly write articles on [https://lifeofmechon.blogspot.com](https://lifeofmechon.blogspot.com)
+- 💬 Ask me about **Java, Spring, Linux, & cool dev stuffs**
 
-- 💬 Ask me about **Java, Spring, Linux,**
-
-- 📫 How to reach me **amtn2000@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DyPutjJSIASZCju7Y06VeUJqrAXzkX9_/view?usp=sharing](https://drive.google.com/file/d/1DyPutjJSIASZCju7Y06VeUJqrAXzkX9_/view?usp=sharing)
-
-- ⚡ Fun fact **I think I'm a workaholic**
+- 📫 Reach me - **amtn2000@gmail.com**
+- 
+- ⚡ Fun fact **I'm also a Mechanical Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
